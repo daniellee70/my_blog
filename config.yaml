@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: "https://analyticsforeconomics.netlify.app/"
 title: Analytics for Economics
 author: Nan Xiao
 canonifyurls: yes
