@@ -10,7 +10,7 @@ editor_options:
 
 Hello, I'm Daniel.
 
-### I'm here for your personal business. 
+### I'm here for your personal business.
 
 Contact me at chanlee70\@yahoo.com for your need for economic and data
 analysis.
@@ -25,8 +25,8 @@ England Public Policy Center at the Federal Reserve Bank of Boston.
 
 **Latest Research Contracts**
 
--   Economic Study for the New Hampshire Off-Highway Vehicle
-    Association (2021)
+-   Economic Study for the New Hampshire Off-Highway Vehicle Association
+    (2021)
 
 -   Economic & Demographic Research for the Northern Border Regional
     Commission (2020)
@@ -34,7 +34,7 @@ England Public Policy Center at the Federal Reserve Bank of Boston.
 -   Economic Study for Ski New Hampshire (2018)
 
 -   Economic Study of Biomass Electric Power Plants for the New
-    Hampshire Timberland Owners' Association (2017)
+    Hampshire Timberland Owners Association (2017)
 
 **Testimonials**
 
