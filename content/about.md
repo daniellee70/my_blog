@@ -10,10 +10,13 @@ editor_options:
 
 Hello, I'm Daniel.
 
-### I'm here for your personal business.
+***Do you have economic and data analysis needs? Are you with an
+industry association that needs to show how critical your industry is to
+the state and regional economy? Does your company need a data scientist
+for data collection, mining, and analysis to improve its bottom line?***
 
-Contact me at chanlee70\@yahoo.com for your need for economic and data
-analysis.
+I'm here for your business. Contact me at chanlee70\@yahoo.com for your
+economic and data analysis needs.
 
 I am a data analytics and economics professor with more than a decade of
 experience performing detailed economic analyses for government,
