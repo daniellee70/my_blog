@@ -1,17 +1,28 @@
-Contact me at chanlee70\@yahoo.com for your needs for economic and data
-analysis.
+---
+date: "2020-01-01"
+description: A description of the page
+menu: main
+title: 
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+#### Contact me at chanlee70\@yahoo.com for your economic and data analysis needs.
 
 I am a data analytics and economics professor with more than a decade of
 experience performing detailed economic analyses for government,
-academic, and business organizations. My industry and community affiliation
-includes a governor's appointee to the New Hampshire Economic
-Development Advisory Council and an advisory board member on the New
-England Public Policy Center at the Federal Reserve Bank of Boston.
+academic, and business organizations. My industry and community
+affiliation includes a governor's appointee to the New Hampshire
+Economic Development Advisory Council and an advisory board member on
+the New England Public Policy Center at the Federal Reserve Bank of
+Boston.
 
 **Latest Research Contracts**
 
 -   Economic Study for the New Hampshire Off-Highway Vehicle Association
-    (2021)
+
+    \(2021\)
 
 -   Economic & Demographic Research for the Northern Border Regional
     Commission (2020)
