@@ -25,7 +25,7 @@ Data Analytics\| R \| SQL
 HIGHLIGHTS
 ---
 
--   Pioneered a groundbreaking work in legal analytics as published in
+-   Pioneered an innovative approach in legal analytics as published in
     Bloomberg Law in December 2019.
 
 -   Developed a series of data analytics courses at Plymouth State
@@ -46,28 +46,27 @@ HIGHLIGHTS
 CAREER TRACK
 ---
 
-**Professor of Economics**
+**Professor of Economics**       2007-Present
 
 Plymouth State University --Business Academic unit
-                          2007-Present
+                          
 
 Teaches undergraduate and graduate data analytics and economics courses,
 including business statistics, legal risk analytics, sports data
 analytics, financial modeling, MBA economic analysis, money and banking,
 and international economics. 
 
-**Principal and Economist**
+**Principal and Economist**       2015-2016
 
 The OakLee Consulting Group,
-LLC                                                        2015-2016
+LLC                                                       
 
 Co-founded and co-owns the company with a partner. Consults clients,
 performs economic analyses, and develops new products and markets.
 
-**Tourism Economist**
+**Tourism Economist**       2012-2016
 
-New Hampshire Division of Travel and Tourism
-Development                                                                                           2012-2016
+New Hampshire Division of Travel and Tourism Development      
 
 Collects and estimates state tourism indicators. Evaluates the state's
 return on investment in the travel and tourism industry.  Estimates the
@@ -75,11 +74,10 @@ industry's economic impact on the state's economy.  Responds to
 inquiries from media and the public.  Testifies before the state
 legislature on behalf of the division.
 
-**Faculty Fellow**
+**Faculty Fellow**       2010-2016
 
 Plymouth State University -- Center for Business and Community
-Development                                                                      
-                    2010-2016
+Development         
 
 Is the first full-time faculty member in university history to perform
 economic analyses, including economic impact studies, for trade
