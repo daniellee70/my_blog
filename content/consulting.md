@@ -20,12 +20,12 @@ Boston.
 
 **Latest Research Contracts**
 
+-   Economic & Demographic Research for the Northern Border Regional
+    Commission (2016 - present)
+
 -   Economic Study for the New Hampshire Off-Highway Vehicle Association
 
     \(2021\)
-
--   Economic & Demographic Research for the Northern Border Regional
-    Commission (2020)
 
 -   Economic Study for Ski New Hampshire (2018)
 
