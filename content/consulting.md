@@ -8,7 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-#### Contact me at chanlee70\@yahoo.com for your economic and data analysis needs.
+#### Contact me at daniellee7071\@gmail.com for your economic and data analysis needs.
 
 I am a data analytics and economics professor with more than a decade of
 experience performing detailed economic analyses for government,
