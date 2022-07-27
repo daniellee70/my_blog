@@ -1,0 +1,23 @@
+State,AgeGroups,Deaths,Population,CrudeRate
+United States,1,87,11896533,0.7
+United States,1-4,150,47814668,0.3
+United States,5-14,160,123348610,0.1
+United States,15-24,13888,131339064,10.6
+United States,25-34,38899,132330949,29.4
+United States,35-44,37442,121573072,30.8
+United States,45-54,42347,129433691,32.7
+United States,55-64,29702,122418544,24.3
+United States,65-74,6888,82579137,8.3
+United States,75-84,1792,41839398,4.3
+United States,85+,1004,18829723,5.3
+New Hampshire,1,NA,37824,NA
+New Hampshire,1-4,NA,155515,NA
+New Hampshire,5-14,NA,447605,NA
+New Hampshire,15-24,132,535730,24.6
+New Hampshire,25-34,403,470916,85.6
+New Hampshire,35-44,307,465649,65.9
+New Hampshire,45-54,264,616470,42.8
+New Hampshire,55-64,131,605698,21.6
+New Hampshire,65-74,21,389091,5.4
+New Hampshire,75-84,11,181583,NA
+New Hampshire,85+,NA,86135,NA
