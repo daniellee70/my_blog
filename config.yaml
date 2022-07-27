@@ -31,17 +31,20 @@ markup:
 menu:
   primary:
     - name: Home
-      url: /
+      url: 
       weight: 1
     - name: About
       url: /about/
       weight: 2
+    - name: Consulting
+      url: /consulting/
+      weight: 3
     - name: GitHub
       url: https://github.com/daniellee70
-      weight: 3
+      weight: 4
     - name: LinkedIn
       url: https://www.linkedin.com/in/daniel-lee-data-scientist/
-      weight: 4
+      weight: 5
     - name: Subscribe
       url: /index.xml
-      weight: 5
+      weight: 6
