@@ -18,8 +18,8 @@ Published legal analytics research in Bloomberg Law and New Hampshire
 Bar News.  Known as an innovative, ambitious self-starter adept at
 identifying trends, opportunities, and risks.  Expertise spans:
 
-Economics \| Forecasting \| Community Development \| Machine Learning \|
-Data Analytics\| R \| SQL
+Economics \| Data Analytics \| NLP \| Machine Learning \| Time Series \|
+Community Development
 
 ---
 HIGHLIGHTS
