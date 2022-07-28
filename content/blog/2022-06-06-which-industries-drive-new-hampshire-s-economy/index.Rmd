@@ -3,10 +3,11 @@ title: Which industries drive New Hampshire's economy?
 author: Daniel Lee
 date: '2022-06-06'
 slug: []
-categories: []
+categories:
+  - Data Visualization
 tags:
-  - one tag
-  - another tag
+  - Economy
+  - NewHampshire
 meta_img: images/image.png
 description: Description for the page
 ---
