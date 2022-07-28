@@ -4,16 +4,10 @@ author: Daniel Lee
 date: '2018-07-02'
 slug: []
 categories:
-  - R
-tags:
-  - Data
-  - Data Analytics
-  - Data Science
   - Data Visualization
+tags:
   - Drug Overdose
-  - Opioid Crisis
-  - Opioid Epidemic
-  - R
+  - Opioid
   - NewHampshire
 meta_img: images/image.png
 description: Description for the page
