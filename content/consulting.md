@@ -37,6 +37,15 @@ Boston.
 
 **Testimonials**
 
+Bob Nadeau (Business Consultant)
+
+> "Daniel is a consummate professional who takes
+> initiative and keeps up with the rapidly changing business
+> environment.
+> He was the driver of using big data and the use of it in academia, and
+> in the classroom. He is a subject matter expert and well respected by
+> his colleagues and students."
+
 Mark Scarano
 
 > "I contracted with Daniel Lee in 2016 to research economic and
