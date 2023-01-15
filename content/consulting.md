@@ -65,7 +65,7 @@ Jessyca Keeler (President at Ski New Hampshire)
 > begin
 > work on soon."
 
-Bob Nadeau (Business Consultant)
+Bob Nadeau (Professor, Business Consultant)
 
 > "Daniel is a consummate professional who takes
 > initiative and keeps up with the rapidly changing business
