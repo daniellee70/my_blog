@@ -37,8 +37,7 @@ Boston.
 
 **Testimonials**
 
-Rich Grogan (Executive Director at the Northern Border Regional
-Commission)
+Rich Grogan (Executive Director at Northern Border Regional Commission)
 
 > "I've worked with Daniel in several capacities,
 > including as a Board member, and now through his essential statistical
@@ -74,7 +73,7 @@ Bob Nadeau (Professor, Business Consultant)
 > in the classroom. He is a subject matter expert and well respected by
 > his colleagues and students."
 
-Mark Scarano (Former Federal Co-Chair at the Northern Border Regional
+Mark Scarano (Former Federal Co-Chair at Northern Border Regional
 Commission)
 
 > "I contracted with Daniel Lee in 2016 to research economic and
