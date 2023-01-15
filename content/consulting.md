@@ -37,6 +37,34 @@ Boston.
 
 **Testimonials**
 
+Rich Grogan (Executive Director at the Northern Border Regional
+Commission)
+
+> "I've worked with Daniel in several capacities,
+> including as a Board member, and now through his essential statistical
+> and analysis work in support of the Northern Border Regional
+> Commission's (NBRC) efforts to ensure investments accrue to the
+> Region's
+> most distressed counties. Daniel is incredibly responsive and
+> conscientious, and is quick to say what is possible (and what is not).
+> He worked with us to effect several last minute changes to the NBRC's
+> distress measurements during the first year of the COVID-19 pandemic,
+> and during that time also served as a statistical thought partner."
+
+Jessyca Keeler (President at Ski New Hampshire)
+
+> "Ski New Hampshire began working with Daniel
+> during the summer of 2018 to examine the economic impact of the ski
+> industry between the years of 2014/15 through 2017/18 on the State of
+> New Hampshire. He brought to the table the most current methods of
+> evaluating the industry's impact and was patient, flexible, and
+> willing
+> to explain how results were determined throughout the entire process.
+> We
+> will be working with him again on our next study which we hope to
+> begin
+> work on soon."
+
 Bob Nadeau (Business Consultant)
 
 > "Daniel is a consummate professional who takes
@@ -46,7 +74,8 @@ Bob Nadeau (Business Consultant)
 > in the classroom. He is a subject matter expert and well respected by
 > his colleagues and students."
 
-Mark Scarano
+Mark Scarano (Former Federal Co-Chair at the Northern Border Regional
+Commission)
 
 > "I contracted with Daniel Lee in 2016 to research economic and
 > demographic data within the NBRC's service area. He not only collected
@@ -54,7 +83,8 @@ Mark Scarano
 > identifying trends. I found him very accommodating and a pleasure to
 > work with."
 
-Gail McWilliam Jellie
+Gail McWilliam Jellie (Director of Agricultural Development at the NH
+Dept. of Agriculture)
 
 > "Daniel provided an in-depth review and analysis of the economic
 > contributions of the agricultural industry in NH for the NH Dept. of
