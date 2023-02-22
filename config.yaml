@@ -1,5 +1,5 @@
 baseurl: "https://analyticsforeconomics.netlify.app/"
-title: Analytics for Economics
+title: Daniel Lee Consulting LLC
 author: Nan Xiao
 canonifyurls: yes
 languagecode: en
@@ -22,7 +22,7 @@ params:
     - python
     - stan
   progressively: no
-  sitename: Analytics for Economics
+  sitename: Daniel Lee Consulting LLC
   uselatex: yes
 markup:
   goldmark:
