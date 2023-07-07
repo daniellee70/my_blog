@@ -64,7 +64,7 @@ The following plot depicts the count of ATV tours in the United States based on 
 
 By analyzing the plot, tour operators can gain insights into the prevailing industry practices and identify areas where they can differentiate their offerings. Understanding the landscape of ATV tours in terms of specific features and policies allows operators to make informed choices that align with customer expectations and contribute to their business success.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 counts_of_char_fig <- read_rds("../../../../OHRV_tour_reviews/00_data/fig/counts_of_char_fig.rds")
 counts_of_char_fig
 ```
@@ -77,7 +77,7 @@ Based on the boxplot, there is an indication that higher-priced ATV tours may ha
 
 While this observation provides initial insight, further analysis and examination of additional data would be necessary to establish a stronger correlation between price and customer satisfaction in the ATV tour industry. Nonetheless, this preliminary evidence highlights the importance of considering pricing strategies and their potential impact on customer satisfaction when positioning and pricing ATV tours.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 ratings_and_price_fig <- read_rds("../../../../OHRV_tour_reviews/00_data/fig/ratings_and_price_fig.rds")
 ratings_and_price_fig
 ```
@@ -90,7 +90,7 @@ Furthermore, the boxplot suggests that tours between 4 and 6 hours in duration t
 
 While this observation provides initial insights, further analysis and examination of additional data would be necessary to establish a stronger relationship between tour duration and customer satisfaction in the ATV tour industry. Nonetheless, this preliminary evidence emphasizes the importance of considering and optimizing tour duration to ensure higher levels of customer satisfaction.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 ratings_and_duration_fig <- read_rds("../../../../OHRV_tour_reviews/00_data/fig/ratings_and_duration_fig.rds")
 ratings_and_duration_fig
 ```
@@ -105,7 +105,7 @@ It is important to note that this plot represents simple correlations and does n
 
 However, based on the displayed correlations, tour operators may consider implementing a full refund policy as a potential strategy to enhance customer satisfaction and improve their overall ratings.
 
-```{r fig.height=10, echo=FALSE, warning=FALSE, message=FALSE}
+```{r fig.height=10, echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 ratings_and_tour_char_fig <- read_rds("../../../../OHRV_tour_reviews/00_data/fig/ratings_and_tour_char_fig.rds")
 ratings_and_tour_char_fig
 ```
@@ -120,7 +120,7 @@ Furthermore, the chart reveals that customers frequently mention words associate
 
 By analyzing the most frequently mentioned topics in customer reviews, tour operators can gain valuable insights into the aspects that have a significant impact on customer satisfaction. This information can guide operators in prioritizing investments in guide training, optimizing tour duration, and creating memorable experiences that align with customer expectations.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 frequent_topics_fig <- read_rds("../../../../OHRV_tour_reviews/00_data/fig/frequent_topics_fig.rds")
 frequent_topics_fig
 ```
@@ -133,7 +133,7 @@ These findings provide actionable insights for ATV tour operators. They can focu
 
 By leveraging these insights, ATV tour operators can make informed decisions to address areas of improvement and enhance the overall customer experience, leading to higher customer review ratings and increased customer satisfaction.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 network_of_words_in_reviews_fig <- read_rds("../../../../OHRV_tour_reviews/00_data/fig/network_of_words_in_reviews_fig.rds")
 network_of_words_in_reviews_fig
 ```
