@@ -53,7 +53,7 @@ The interactive nature of the map provides further functionality. Operators can 
 
 The interactive map serves as a valuable tool for tour operators, offering a comprehensive overview of the ATV tour market in the United States. By leveraging the provided information, operators can strategically position their own offerings and make data-driven decisions to enhance their ATV tours, providing customers with an exceptional experience tailored to their preferences.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 map <- read_rds("../../../../OHRV_tour_reviews/00_data/fig/map.rds")
 map
 ```
