@@ -56,12 +56,12 @@ The location quotient is a common way to identify major drivers of the economy. 
 
 For example, the Finance and Insurance industry produced nearly $6 billion real dollars of goods and services in New Hampshire in 2019. The $6 billion represents $715 million more than the industry would have produced if it was exactly as important in New Hampshire as in the United States. In other words, the industry is New Hampshire's economic engine exporting and bringing income from outside the State. 
 
-```{r fig.width=10}
+```{r out.width="100%"}
 gdp_LQ_tbl %>% plot_LQ(is_LQ_dollars = TRUE, include_all_year = TRUE, panel_spacing_dist = 3.5)
 ```
 
 
-```{r fig.height=7, fig.width=10, eval = FALSE}
+```{r fig.height=7, out.width="100%", eval = FALSE}
 ## Location Quotient: All States for 1997 and 2011
 
 gdp_LQ_tbl %>% plot_LQ(is_LQ_dollars = FALSE, include_all_year = FALSE, panel_spacing_dist = 3)
