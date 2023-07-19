@@ -50,7 +50,9 @@ For the purpose of this analysis, the data were accessed in July, 2023. We have 
 
 With this rich and diverse dataset at our disposal, we embark on a journey to unravel the intricacies of the ski industry, allowing us to extract valuable insights and propose innovative solutions to overcome the challenges posed by seasonality.
 
-## ![](images/ski_tripadvisor_img.png)Map of Ski Areas
+![](images/ski_tripadvisor_img.png){width=100%}
+
+## Map of Ski Areas
 
 Ski areas can leverage the interactive map below to gain valuable insights into the ski industry landscape in the northern New England states. By hovering over specific locations on the map, operators can access detailed information about each ski area, including ratings and types of offerings. Furthermore, the interactive map offers a zoom functionality that allows operators to focus on specific regions of interest. By clicking on the plus sign, '+', located in the upper right corner of the map, operators can zoom in and examine smaller areas of multiple ski areas. This zoom feature proves particularly useful when exploring regions with a high concentration of ski areas, such as southern Vermont.Please click the reset button to revert the map back to its original state.
 
@@ -62,7 +64,7 @@ The interactive map provides a comprehensive view of the ski industry landscape,
 
 As we delve further into this analysis, we will explore additional examples and strategies for diversification within the ski industry. By understanding the multi-faceted nature of ski areas' offerings, operators can strategically position their own businesses and capitalize on opportunities to attract a wider customer base, effectively managing seasonality challenges in the tourism industry.
 
-```{r  echo=FALSE, warning=FALSE, message=FALSE, fig.width=8}
+```{r  echo=FALSE, warning=FALSE, message=FALSE, fig.width=8, out.width="100%"}
 map
 ```
 
@@ -80,7 +82,7 @@ The customer reviews are aggregated and averaged for each individual ski area, a
 
 This analysis highlights the overall landscape of the ski industry in the three states, shedding light on the distribution of ski areas, customer satisfaction levels, and popularity based on customer reviews.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 Ski_area_info_fig
 ```
 
@@ -94,7 +96,7 @@ The heatmap also reveals variations in offerings among the northern New England 
 
 The heatmap underscores the importance of diversification in the ski industry, offering ski areas valuable insights into potential opportunities for expanding their services and attracting a wider customer base. By leveraging the available data and identifying types of offerings that are currently absent or less prevalent in their respective states, ski areas can strategically position themselves to stand out and cater to different customer preferences.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 n_of_ski_areas_by_type_fig
 ```
 
@@ -108,7 +110,7 @@ Furthermore, the heatmap highlights certain types of offerings that seem to stru
 
 Understanding the average number of customer reviews provides ski areas with insights into their relative popularity and customer engagement. By focusing on types that have garnered higher review counts and addressing the underperforming types, ski areas can refine their marketing efforts, improve customer satisfaction, and ultimately enhance their bottom line.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 avg_n_of_ski_area_reviews_by_type_fig
 ```
 
@@ -122,7 +124,7 @@ Interestingly, there are cases where types with low engagement in terms of revie
 
 The insights gained from this heatmap allow ski areas to evaluate their performance and make informed decisions to enhance customer satisfaction. Ski areas offering types with lower ratings can focus on improving the quality, value, and overall customer experience to elevate their ratings and attract more positive reviews. Conversely, ski areas offering types with high ratings can leverage their positive reputation to further enhance their offerings and continue delivering exceptional experiences to customers.
 
-```{r echo=FALSE, warning=FALSE, message=FALSE}
+```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%"}
 avg_rating_of_ski_areas_by_type_fig
 ```
 
