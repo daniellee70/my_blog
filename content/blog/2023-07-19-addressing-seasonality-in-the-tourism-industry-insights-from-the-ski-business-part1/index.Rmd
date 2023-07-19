@@ -1,6 +1,5 @@
 ---
 title: 'Addressing Seasonality in the Tourism Industry: Insights from the Ski Business (Part1)'
-subtitle: "diversification within ski areas, examining how they expand their offerings beyond traditional winter activities"
 author: Daniel Lee
 date: '2023-07-19'
 slug: []
@@ -26,6 +25,8 @@ n_of_ski_areas_by_type_fig <- read_rds("../../../../Ski_areas/00_data/fig/n_of_s
 avg_n_of_ski_area_reviews_by_type_fig <- read_rds("../../../../Ski_areas/00_data/fig/avg_n_of_ski_area_reviews_by_type_fig.rds")
 avg_rating_of_ski_areas_by_type_fig <- read_rds("../../../../Ski_areas/00_data/fig/avg_rating_of_ski_areas_by_type_fig.rds")
 ```
+
+**Part 1: diversification within ski areas, examining how they expand their offerings beyond traditional winter activities**
 
 The tourism industry is highly susceptible to fluctuations in demand, often driven by seasonality. Businesses operating in popular tourist destinations face the challenge of managing varying customer demands throughout the year. As a solution, many businesses are turning to data analysis techniques to gain valuable insights that can inform strategic decision-making.
 
