@@ -1,17 +1,10 @@
 ---
-title: 'Leveraging Data Analytics to Address Seasonality in the Tourism Industry: Insights from the Ski Business'
+title: 'Leveraging Data Analytics to Address Seasonality in the Tourism Industry: Insights from the Ski Business (Part1)'
 author: Daniel Lee
 date: '2023-07-19'
 slug: []
 categories: []
 tags:
-  - seasonality
-  - tourism
-  - ski
-  - customer reviews
-  - natural language processing
-  - machine learning
-  - data analytics
 meta_img: images/image.png
 description: Description for the page
 ---
