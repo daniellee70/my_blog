@@ -30,7 +30,6 @@ tour_types_fig         <- read_rds("../../../../Ski_areas/00_data/fig/tour_types
 tour_types_heatmap_fig <- read_rds("../../../../Ski_areas/00_data/fig/tour_types_heatmap_fig.rds")
 ```
 
-This article first appeared in [danielleeconsulting.com.](https://danielleeconsulting.com/blog/2023-07-19-addressing-seasonality-in-the-tourism-industry-insights-from-the-ski-business-part1/)
 
 Welcome to Part 2 of our data analysis series on addressing seasonality in the tourism industry! As promised last week, we are diving into the benefits of collaborating with nearby attractions and businesses to attract visitors throughout the year. In this installment, we will explore the power of partnerships and synergistic experiences that can transform how tourism businesses thrive in a dynamic and competitive landscape.
 
