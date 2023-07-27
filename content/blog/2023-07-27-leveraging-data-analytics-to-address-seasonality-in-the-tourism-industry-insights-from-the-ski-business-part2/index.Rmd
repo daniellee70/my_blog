@@ -22,12 +22,12 @@ library(tidyverse)
 library(tidyquant)
 library(tidytext)
 
-map2 <- read_rds("../00_data/fig/map2.rds")
-amenities_fig          <- read_rds("../00_data/fig/amenities_fig.rds")
-tours_fig              <- read_rds("../00_data/fig/tours_fig.rds")
-amen_tour_by_state_fig <- read_rds("../00_data/fig/amen_tour_by_state_fig.rds")
-tour_types_fig         <- read_rds("../00_data/fig/tour_types_fig.rds")
-tour_types_heatmap_fig <- read_rds("../00_data/fig/tour_types_heatmap_fig.rds")
+map2 <- read_rds("../../../../Ski_areas/00_data/fig/map2.rds")
+amenities_fig          <- read_rds("../../../../Ski_areas/00_data/fig/amenities_fig.rds")
+tours_fig              <- read_rds("../../../../Ski_areas/00_data/fig/tours_fig.rds")
+amen_tour_by_state_fig <- read_rds("../../../../Ski_areas/00_data/fig/amen_tour_by_state_fig.rds")
+tour_types_fig         <- read_rds("../../../../Ski_areas/00_data/fig/tour_types_fig.rds")
+tour_types_heatmap_fig <- read_rds("../../../../Ski_areas/00_data/fig/tour_types_heatmap_fig.rds")
 ```
 
 This article first appeared in [danielleeconsulting.com.](https://danielleeconsulting.com/blog/2023-07-19-addressing-seasonality-in-the-tourism-industry-insights-from-the-ski-business-part1/)
