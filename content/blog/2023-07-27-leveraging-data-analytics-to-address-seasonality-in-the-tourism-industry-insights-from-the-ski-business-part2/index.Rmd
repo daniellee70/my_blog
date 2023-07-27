@@ -17,7 +17,7 @@ description: Description for the page
 ---
 
 
-```{r}
+```{r echo=FALSE, warning=FALSE, message=FALSE}
 library(tidyverse)
 library(tidyquant)
 library(tidytext)
