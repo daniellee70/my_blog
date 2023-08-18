@@ -1,5 +1,5 @@
 ---
-title: leveraging data analytics to address seasonality in the tourism industry insights from the ski business part3
+title: 'Leveraging Data Analytics to Address Seasonality in the Tourism Industry: Insights from the Ski Business (part3)'
 author: Daniel Lee
 date: '2023-08-18'
 slug: []
