@@ -41,8 +41,6 @@ review_aspect_complaints_fig    <- read_rds("../../../../Ski_areas/00_data/fig/r
 review_aspect_wt_sentiment_by_season_fig <- read_rds("../../../../Ski_areas/00_data/fig/review_aspect_wt_sentiment_by_season_fig.rds")
 ```
 
-This article first appeared in [danielleeconsulting.com.](https://danielleeconsulting.com/blog/2023-07-27-leveraging-data-analytics-to-address-seasonality-in-the-tourism-industry-insights-from-the-ski-business-part2/)
-
 Step into the next part of our data exploration series, where we dig into the ups and downs of tourism across different times of the year. We're going to take a close look at what people say in their reviews and figure out how businesses can adjust what they offer based on the seasons.
 
 In the last part, we talked about how teaming up with nearby attractions and businesses can bring in visitors all year long. Now, in this new adventure, I've looked at what people are saying online, like on Tripadvisor. It's like finding hidden treasure in a digital world, where we can learn about the people who visit our state. We'll find out who come here each year, when they come, where they come from, what they like, and what they don't like.
