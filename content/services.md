@@ -17,7 +17,8 @@ and economic assessments.
 -   **Customer Sentiment Analysis:** Analyze customer reviews from
     TripAdvisor, Yelp, Google Reviews, and social media to gauge public
     sentiment regarding outdoor recreation destinations, amenities, and
-    services.
+    services  -
+    [link to an example](https://danielleeconsulting.com/blog/2023-08-18-leveraging-data-analytics-to-address-seasonality-in-the-tourism-industry-insights-from-the-ski-business-part3/).
 -   **Policy Impact Assessment:** Evaluate the impact of proposed
     policies and initiatives by analyzing customer reviews and online
     discussions to understand how they influence community well-being
