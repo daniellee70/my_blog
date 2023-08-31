@@ -12,19 +12,15 @@ editor_options:
 
 **Latest Clients and Reports**
 
--   Economic Study for the Wisconsin ATV / UTV Association (2023)
+-   **Wisconsin ATV / UTV Association** (2023) Economic Study 
 
--   Economic & Demographic Research for the Northern Border Regional
-    Commission (2016 - present)
+-   **Northern Border Regional Commission** (2016 - present) Economic & Demographic Research  
 
--   Economic Study for the New Hampshire Off-Highway Vehicle Association
+-   **New Hampshire Off-Highway Vehicle Association** (2021) Economic Study  -
+    [link](https://milantrailhuggersatvclub.wildapricot.org/resources/Documents/2020%20Economic%20Study.pdf) 
 
-    \(2021\) -
-    [link](https://milantrailhuggersatvclub.wildapricot.org/resources/Documents/2020%20Economic%20Study.pdf)
-
--   Economic Study for Ski New Hampshire (2018) -
+-   **Ski New Hampshire** (2018) Economic Study -
     [link](https://www.skinh.com/assets/documents/Economic-Contribution-Study-14-18-FINAL.pdf)
 
--   Economic Study of Biomass Electric Power Plants for the New
-    Hampshire Timberland Owners Association (2017) -
+-   **New Hampshire Timberland Owners Association** (2017) Economic Study of Biomass Electric Power Plants -
     [link](https://nhtoa.org/files/docs/Economic%20Contribution%20of%20the%20Biomass%20Electrical%20Power%20Gen%20in%20NH%202016.pdf)
