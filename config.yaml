@@ -39,12 +39,15 @@ menu:
     - name: Testimonials
       url: /testimonials/
       weight: 3
-    - name: GitHub
-      url: https://github.com/daniellee70
+    - name: Serivices
+      url: /services/
       weight: 4
     - name: Contact
       url: /contact/
       weight: 5
+    # - name: GitHub
+    #   url: https://github.com/daniellee70
+    #   weight: 4
     # - name: LinkedIn
     #   url: https://www.linkedin.com/in/daniel-lee-data-scientist/
     #   weight: 5
