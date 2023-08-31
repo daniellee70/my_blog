@@ -36,11 +36,11 @@ menu:
     - name: About
       url: /about/
       weight: 2
-    - name: Testimonials
-      url: /testimonials/
-      weight: 3
     - name: Serivices
       url: /services/
+      weight: 3
+    - name: Testimonials
+      url: /testimonials/
       weight: 4
     - name: Past Clients
       url: /past_clients/
