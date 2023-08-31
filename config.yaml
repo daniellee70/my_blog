@@ -36,8 +36,8 @@ menu:
     - name: Author
       url: /about/
       weight: 2
-    - name: Consulting
-      url: /consulting/
+    - name: Testimonials
+      url: /testimonials/
       weight: 3
     - name: GitHub
       url: https://github.com/daniellee70

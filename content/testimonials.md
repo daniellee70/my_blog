@@ -8,15 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-#### Contact me at daniellee7071\@gmail.com for your economic and data analysis needs.
 
-I am a data analytics and economics professor with more than a decade of
-experience performing detailed economic analyses for government,
-academic, and business organizations. My industry and community
-affiliation includes a governor's appointee to the New Hampshire
-Economic Development Advisory Council and an advisory board member on
-the New England Public Policy Center at the Federal Reserve Bank of
-Boston.
 
 **Latest Research Contracts**
 
