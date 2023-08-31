@@ -8,9 +8,9 @@ editor_options:
     wrap: 72
 ---
 
-Email: daniellee7071@gmail.com
+**Email:** daniellee7071@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/daniel-lee-data-scientist/
+**LinkedIn:** https://www.linkedin.com/in/daniel-lee-data-scientist/
 
-GitHub: https://github.com/daniellee70
+**GitHub:** https://github.com/daniellee70
 
