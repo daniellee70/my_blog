@@ -42,11 +42,11 @@ menu:
     - name: Serivices
       url: /services/
       weight: 4
-    - name: Contact
-      url: /contact/
-      weight: 5
     - name: Past Clients
       url: /past_clients/
+      weight: 5
+    - name: Contact
+      url: /contact/
       weight: 6
     # - name: GitHub
     #   url: https://github.com/daniellee70
