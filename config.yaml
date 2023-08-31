@@ -33,7 +33,7 @@ menu:
     - name: Blog
       url: /
       weight: 1
-    - name: Author
+    - name: About
       url: /about/
       weight: 2
     - name: Testimonials
