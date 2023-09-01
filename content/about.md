@@ -10,7 +10,7 @@ editor_options:
 
 ***Driving Informed Economic Development through Nuanced Tourism Insights***
 
-Daniel Lee Consulting LLC is founded in 2023 by Daniel Lee, a data scientist and economist with over a decade of experience performing detailed economic analyses for government, academic, and business organizations. Daniel Lee is a seasoned economist with the following credentials:
+Daniel Lee Consulting LLC was founded in 2023 by Daniel Lee, a data scientist and economist with over a decade of experience performing detailed economic analyses for government, academic, and business organizations. Daniel Lee is a seasoned economist with the following credentials:
 
 * Advisory Board Member, New England Public Policy Center at the Federal Reserve Bank of Boston (2022-present)
 * Governor’s appointee, New Hampshire Economic Development Advisory Council (2013-2017)
