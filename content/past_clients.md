@@ -10,7 +10,7 @@ editor_options:
 
 
 
-**Latest Clients and Reports**
+**Selected Past Clients and Reports**
 
 -   **Wisconsin ATV / UTV Association** (2023) Economic Study 
 
@@ -24,3 +24,10 @@ editor_options:
 
 -   **New Hampshire Timberland Owners Association** (2017) Economic Study of Biomass Electric Power Plants -
     [link](https://nhtoa.org/files/docs/Economic%20Contribution%20of%20the%20Biomass%20Electrical%20Power%20Gen%20in%20NH%202016.pdf)
+    
+-	**New Hampshire Department of Resources and Economic Development** (2012-16) Tourism Research
+
+-	**New Hampshire Department of Agriculture** (2015) Economic Impact of Agriculture
+
+-	**White Mountain National Forest** (2012) Socioeconomic Study
+
