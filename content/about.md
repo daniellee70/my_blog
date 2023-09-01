@@ -10,7 +10,15 @@ editor_options:
 
 ***Driving Informed Economic Development through Nuanced Tourism Insights***
 
-With a wealth of experience spanning over a decade in conducting comprehensive economic analyses, Daniel Lee Consulting LLC brings a distinctive touch to the tourism industry. Our specialization lies in skillfully analyzing customer feedback using advanced natural language processing techniques, complementing traditional data analytics and economic assessments.
+Daniel Lee Consulting LLC is founded in 2023 by Daniel Lee, a data scientist and economist with over a decade of experience performing detailed economic analyses for government, academic, and business organizations. Daniel Lee is a seasoned economist with the following credentials:
+
+* Advisory Board Member, New England Public Policy Center at the Federal Reserve Bank of Boston (2022-present)
+* Governor’s appointee, New Hampshire Economic Development Advisory Council (2013-2017)
+* Tourism Economist, New Hampshire Division of Travel and Tourism Development (2012-2016)
+* Professor of Economics with a decade-long experience in completing tens of economic studies (2007-present)
+ 
+
+Our specialization lies in skillfully analyzing customer feedback using advanced natural language processing techniques, complementing traditional data analytics and economic assessments.
 
 Our core mission revolves around empowering businesses to harness the potential of data, fostering growth, enriching visitor experiences, and deftly navigating the intricacies posed by seasonal variations. What sets us apart is not just our analytical capabilities, but our ability to extract valuable insights from language itself, painting a holistic picture of the industry landscape.
 
