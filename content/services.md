@@ -21,7 +21,7 @@ analysis, customer review analysis, and economic development consulting
 with a particular emphasis on fulfilling data analysis. For our success
 stories, please explore our [past
 client](https://danielleeconsulting.com/past_clients/) and
-[testimonial](https://danielleeconsulting.com/testimonials/)pages.
+[testimonial](https://danielleeconsulting.com/testimonials/) pages.
 Additionally, we provide comprehensive customer review analysis,
 utilizing advanced natural language processing techniques that enhance
 traditional data analytics and economic assessments. To see our work in
