@@ -30,14 +30,14 @@ markup:
       unsafe: yes
 menu:
   primary:
-    - name: Blog
-      url: /
+    - name: Services
+      url: /services/
       weight: 1
     - name: About
       url: /about/
       weight: 2
-    - name: Serivices
-      url: /services/
+    - name: Blog
+      url: /
       weight: 3
     - name: Testimonials
       url: /testimonials/
