@@ -17,7 +17,7 @@ editor_options:
 -   **Northern Border Regional Commission** (2016 - present) Economic & Demographic Research  
 
 -   **New Hampshire Off-Highway Vehicle Association** (2021) Economic Impact Analysis  -
-    [link](https://milantrailhuggersatvclub.wildapricot.org/resources/Documents/2020%20Economic%20Study.pdf) 
+    [link](https://www.nhstateparks.org/getmedia/d0c3e291-63e1-463c-9c2c-37e7b1b0a8fc/2020-OHRV-Economic-Study-2021.aspx#:~:text=It%20was%20estimated%20that%20OHRV,during%20the%20calendar%20year%202020.) 
 
 -   **Ski New Hampshire** (2018) Economic Impact Analysis -
     [link](https://www.skinh.com/assets/documents/Economic-Contribution-Study-14-18-FINAL.pdf)
