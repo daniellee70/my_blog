@@ -10,6 +10,10 @@ editor_options:
 
 > ## Economic Impact Analysis
 
+> ## Data Reporting
+
+> ## Forecasting
+
 > ## Customer Review Analysis
 
 > ## Economic Development Consulting
