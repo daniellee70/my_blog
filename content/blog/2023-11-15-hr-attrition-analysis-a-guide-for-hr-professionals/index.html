@@ -1,0 +1,231 @@
+---
+title: 'HR Attrition Analysis: A Guide for HR Professionals'
+author: Daniel Lee
+date: '2023-11-15'
+slug: []
+categories: []
+tags:
+  - one tag
+  - another tag
+meta_img: images/image.png
+description: Description for the page
+---
+
+
+
+<div id="introduction" class="section level1">
+<h1>Introduction</h1>
+<p>In the realm of human resources, mastering employee attrition analysis is pivotal for workforce management. This blog is not a how-to; instead, it’s a quick guide for HR professionals. We’ll outline the key data you need, unravel the process, and highlight the benefits. Empower yourself with insights to strategically enhance talent retention. Let’s dive in.</p>
+</div>
+<div id="why-conduct-an-attrition-analysis-mitigating-business-impact" class="section level1">
+<h1>Why Conduct an Attrition Analysis: Mitigating Business Impact</h1>
+<p>Attrition poses a ubiquitous challenge across industries, geographies, and company sizes. The repercussions of employee turnover extend far beyond the immediate need to fill vacancies, reaching into the realms of business disruption, recruitment costs, and the resources invested in training new personnel. In this landscape, the application of classification models emerges as a powerful tool to predict the likelihood of an employee resigning, providing HR teams with a proactive means to intervene and address potential attrition triggers.</p>
+</div>
+<div id="about-the-data-unpacking-essentials-for-attrition-analysis" class="section level1">
+<h1>About the Data: Unpacking Essentials for Attrition Analysis</h1>
+<p>Crucial to any effective attrition analysis is a reliable dataset, and a good example is an employee survey of IBM. This dataset, featuring responses from 1,470 employees, is a renowned cornerstone in the domain of attrition analysis.</p>
+<table>
+<colgroup>
+<col width="36%" />
+<col width="63%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>AGE</td>
+<td>Numerical Value</td>
+</tr>
+<tr class="even">
+<td>ATTRITION</td>
+<td>Employee leaving the company (0=no, 1=yes)</td>
+</tr>
+<tr class="odd">
+<td>BUSINESS TRAVEL</td>
+<td>(1=No Travel, 2=Travel Frequently, 3=Tavel Rarely)</td>
+</tr>
+<tr class="even">
+<td>DAILY RATE</td>
+<td>Numerical Value - Salary Level</td>
+</tr>
+<tr class="odd">
+<td>DEPARTMENT</td>
+<td>(1=HR, 2=R&amp;D, 3=Sales)</td>
+</tr>
+<tr class="even">
+<td>DISTANCE FROM HOME</td>
+<td>Numerical Value - THE DISTANCE FROM WORK TO HOME</td>
+</tr>
+<tr class="odd">
+<td>EDUCATION</td>
+<td>Numerical Value</td>
+</tr>
+<tr class="even">
+<td>EDUCATION FIELD</td>
+<td>(1=HR, 2=LIFE SCIENCES, 3=MARKETING, 4=MEDICAL SCIENCES, 5=OTHERS, 6= TEHCNICAL)</td>
+</tr>
+<tr class="odd">
+<td>EMPLOYEE COUNT</td>
+<td>Numerical Value</td>
+</tr>
+<tr class="even">
+<td>EMPLOYEE NUMBER</td>
+<td>Numerical Value - EMPLOYEE ID</td>
+</tr>
+<tr class="odd">
+<td>ENVIROMENT SATISFACTION</td>
+<td>Numerical Value - SATISFACTION WITH THE ENVIROMENT</td>
+</tr>
+<tr class="even">
+<td>GENDER</td>
+<td>(1=FEMALE, 2=MALE)</td>
+</tr>
+<tr class="odd">
+<td>HOURLY RATE</td>
+<td>Numerical Value - HOURLY SALARY</td>
+</tr>
+<tr class="even">
+<td>JOB INVOLVEMENT</td>
+<td>Numerical Value - JOB INVOLVEMENT</td>
+</tr>
+<tr class="odd">
+<td>JOB LEVEL</td>
+<td>Numerical Value - LEVEL OF JOB</td>
+</tr>
+<tr class="even">
+<td>JOB ROLE</td>
+<td>(1=HC REP, 2=HR, 3=LAB TECHNICIAN, 4=MANAGER, 5= MANAGING DIRECTOR, 6= REASEARCH DIRECTOR, 7= RESEARCH SCIENTIST, 8=SALES EXECUTIEVE, 9= SALES REPRESENTATIVE)</td>
+</tr>
+<tr class="odd">
+<td>JOB SATISFACTION</td>
+<td>Numerical Value - SATISFACTION WITH THE JOB</td>
+</tr>
+<tr class="even">
+<td>MARITAL STATUS</td>
+<td>(1=DIVORCED, 2=MARRIED, 3=SINGLE)</td>
+</tr>
+<tr class="odd">
+<td>MONTHLY INCOME</td>
+<td>Numerical Value - MONTHLY SALARY</td>
+</tr>
+<tr class="even">
+<td>MONTHY RATE</td>
+<td>Numerical Value - MONTHY RATE</td>
+</tr>
+<tr class="odd">
+<td>NUMCOMPANIES WORKED</td>
+<td>Numerical Value - NO. OF COMPANIES WORKED AT</td>
+</tr>
+<tr class="even">
+<td>OVER 18</td>
+<td>(1=YES, 2=NO)</td>
+</tr>
+<tr class="odd">
+<td>OVERTIME</td>
+<td>(1=NO, 2=YES)</td>
+</tr>
+<tr class="even">
+<td>PERCENT SALARY HIKE</td>
+<td>Numerical Value - PERCENTAGE INCREASE IN SALARY</td>
+</tr>
+<tr class="odd">
+<td>PERFORMANCE RATING</td>
+<td>Numerical Value - ERFORMANCE RATING</td>
+</tr>
+<tr class="even">
+<td>RELATIONS SATISFACTION</td>
+<td>Numerical Value - RELATIONS SATISFACTION</td>
+</tr>
+<tr class="odd">
+<td>STANDARD HOURS</td>
+<td>Numerical Value - STANDARD HOURS</td>
+</tr>
+<tr class="even">
+<td>STOCK OPTIONS LEVEL</td>
+<td>Numerical Value - STOCK OPTIONS</td>
+</tr>
+<tr class="odd">
+<td>TOTAL WORKING YEARS</td>
+<td>Numerical Value - TOTAL YEARS WORKED</td>
+</tr>
+<tr class="even">
+<td>TRAINING TIMES LAST YEAR</td>
+<td>Numerical Value - HOURS SPENT TRAINING</td>
+</tr>
+<tr class="odd">
+<td>WORK LIFE BALANCE</td>
+<td>Numerical Value - TIME SPENT BEWTWEEN WORK AND OUTSIDE</td>
+</tr>
+<tr class="even">
+<td>YEARS AT COMPANY</td>
+<td>Numerical Value - TOTAL NUMBER OF YEARS AT THE COMPNAY</td>
+</tr>
+<tr class="odd">
+<td>YEARS IN CURRENT ROLE</td>
+<td>Numerical Value -YEARS IN CURRENT ROLE</td>
+</tr>
+<tr class="even">
+<td>YEARS SINCE LAST PROMOTION</td>
+<td>Numerical Value - LAST PROMOTION</td>
+</tr>
+<tr class="odd">
+<td>YEARS WITH CURRENT MANAGER</td>
+<td>Numerical Value - YEARS SPENT WITH CURRENT MANAGER</td>
+</tr>
+</tbody>
+</table>
+<p>While not all variables may be necessary for every analysis, this dataset provides a solid foundation, offering a glimpse into what it takes to conduct a nuanced and insightful attrition analysis.</p>
+</div>
+<div id="understanding-the-extent-of-attrition-in-your-business-a-strategic-overview" class="section level1">
+<h1>Understanding the Extent of Attrition in Your Business: A Strategic Overview</h1>
+<p>Once armed with attrition data categorized by department and job role, you and your data scientist can venture into estimating the tangible impact of attrition costs on your business. Consider the following example, which draws on specific assumptions related to salary, direct costs (such as separation, vacancy, acquisition, and placement), and productivity costs (including net revenue per employee and other factors).</p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="100%" height="500px" /></p>
+<p>In the depicted scenario, IBM illustrates the highest attrition cost within the sales department, particularly among sales executives. Following closely are lab technicians in the Research and Development (R&amp;D) department. This insightful plot unveils the specific areas within your organization where attrition poses the most significant financial implications.</p>
+</div>
+<div id="do-i-have-sufficient-data-deciphering-data-quality" class="section level1">
+<h1>Do I Have Sufficient Data? Deciphering Data Quality</h1>
+<p>Determining the adequacy of your data is a pivotal step in the analytical journey. Typically, your data scientist will embark on an exploratory data analysis (EDA) to provide insights into the quality and relevance of your dataset. While various approaches exist for EDA, one effective and insightful method is the correlation funnel analysis, a personal favorite.</p>
+<p>The correlation funnel analysis is particularly powerful as it not only reveals correlations between the target variable (attrition) and numeric variables but also extends its reach to categorical variables through the binarization of variables. This comprehensive approach offers an intuitive visualization of variables, showcasing their potential predictive power in a structured hierarchy.</p>
+<p>This stage becomes a collaborative effort between you and your data scientist to decide whether to proceed to the development of machine learning models or revisit data collection. This analytical checkpoint serves as a crucial juncture, ensuring that the data at hand possesses the depth and relevance necessary for meaningful insights.</p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="100%" height="500px" /></p>
+<p>The correlation funnel plot serves as a visual guide to discern variables strongly correlated with attrition, providing a structured view of their significance in descending order. Within this plot, the right half showcases binarized variables correlated with employees who left the company, while the left half displays those correlated with employees who stayed.</p>
+<p>The top variables, with the highest correlations in order, are OverTime, JobLevel, MonthlyIncome, and StockOptionLevel. Let’s delve into a detailed explanation, focusing on the top three predictors:</p>
+<ol style="list-style-type: decimal">
+<li><p><strong>OverTime:</strong> Employees who work overtime are more likely to leave the company, suggesting a potential correlation between extended work hours and attrition.</p></li>
+<li><p><strong>JobLevel:</strong> Junior-level employees (level 1 on a scale of 1 through 5) exhibit a higher likelihood of leaving, while those at job level 2 are less prone to attrition. It may imply that a swift promotion of talented employees to Job Level 2 could help mitigate attrition, underscoring the strategic importance of career progression.</p></li>
+<li><p><strong>MonthlyIncome:</strong> Employees earning a monthly income of $2,911 or lower are more likely to leave. This correlation underscores the influence of income levels on attrition dynamics.</p></li>
+</ol>
+</div>
+<div id="building-machine-learning-models-unleashing-analytical-power" class="section level1">
+<h1>Building Machine Learning Models: Unleashing Analytical Power</h1>
+<p>Leave the intricacies to your data scientist; it’s their realm of expertise, allowing you to take a step back and relax. The results that follow have been crafted using Matt Dancho’s code from Business Science University, applied to the previously discussed IBM employee survey data.</p>
+</div>
+<div id="why-should-i-trust-the-model-unraveling-predictive-confidence" class="section level1">
+<h1>Why Should I Trust the Model? Unraveling Predictive Confidence</h1>
+<p>When assessing the reliability of the model, your data scientist will provide you with various performance metrics, offering a comprehensive view of its predictive capabilities. Among these metrics, common ones include AUC (Area Under the Curve) and accuracy.</p>
+<p><strong>Accuracy:</strong> This is perhaps the most intuitive metric, representing the percentage of correct predictions made by the model.</p>
+<p><strong>AUC:</strong> Without delving into technical details, AUC is easily understandable. Ranging from 0 to 1, a score of 0 signifies the model being 100% wrong, while a score of 1 indicates 100% correctness. Notably, our IBM case study boasts a commendable AUC of 0.92 and an Accuracy of 0.9, signifying robust predictive performance.</p>
+<p>Despite the array of performance metrics, two that are likely to catch your attention are the lift chart and gain chart, both highlighted in the IBM case study below. These charts provide an insightful visual representation of the model’s effectiveness in predicting attrition, offering a practical and easily interpretable measure of its performance.</p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-1.png" width="100%" height="500px" /></p>
+<p>In the realm of complex models, however, establishing trust can be challenging. Global measures like accuracy provide a high-level view, but they often fall short when it comes to explaining the rationale behind specific predictions. Fortunately, your data scientist is equipped to demystify the model’s decisions, offering insightful explanations for why an employee is predicted to leave or stay.</p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-5-1.png" width="100%" height="500px" /></p>
+<p>To demystify the estimated probability of an individual employee leaving the company, let’s examine a real-life example from an IBM employee’s case. The model predicted a 75% chance of this employee departing, presenting supporting factors in blue and contradicting factors in red.</p>
+<p>Employee Profile:</p>
+<p>Overtime: The employee regularly works overtime.
+Job History: Bounced around frequently, having worked for more than four companies in the past.
+Age: Young, aged 30 years or younger.
+Stock Options: The employee has not been offered any stock options.
+These factors, highlighted in blue, collectively contribute to an increased likelihood of the person leaving. Conversely, a contradicting factor, depicted in red, suggests good career advancement with less than a year since the last promotion.</p>
+<p>This nuanced analysis provides a detailed perspective on the specific elements influencing the model’s prediction for this employee.</p>
+</div>
+<div id="policy-recommendations-strategically-navigating-attrition" class="section level1">
+<h1>Policy Recommendations: Strategically Navigating Attrition</h1>
+<p>As your analytical journey reaches its culmination, your data scientist steps forward with insightful recommendations aimed at mitigating attrition within your organization. These recommendations are not only tailored to address specific attrition drivers but also accompanied by estimated savings tied to each proposed policy change.</p>
+<p>In this IBM case study, for instance, the data scientist may advocate for policy adjustments related to overtime, such as the complete elimination of overtime or its selective removal for targeted employees. To illustrate, a straightforward policy change, like eliminating overtime altogether, could result in annual savings of nearly $400,000 for IBM.</p>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-6-1.png" width="100%" height="500px" /></p>
+<p>Thank you for taking the time to read my post. I trust it provides valuable insights into the intricacies of conducting an attrition analysis and sets clear expectations for the outcomes of such a study.</p>
+</div>
